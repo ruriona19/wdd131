@@ -5,18 +5,33 @@ body {
 }
 
 header {
+    display: grid;
     background: rgb(75, 75, 75);
-    grid-column: 1 / 4;
+    grid-column: 1/4;
     grid-row: 1/2;
     color: #eee;
+    grid-template: 0.5fr auto 0.5fr / 1fr 1fr 1fr;   
 }
 
 header h1 {
-    padding: 0rem 0rem 2rem 1rem;
+    grid-column: 1/4;
+    grid-row: 1/2;
+    margin: 0.5rem 1.2rem;
+}
+
+header img{
+	grid-column: 1/2; 
+    grid-row: 2/3;  
+    width: 90px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 5px;
+    margin: 0.5rem 1.2rem;
 }
 
 nav {
-    margin: 0 auto 0rem;
+    grid-column: 1/4;
+    grid-row: 3/4;
     background: rgb(0, 0, 0);
 }
 
