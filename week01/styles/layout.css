@@ -35,38 +35,33 @@ nav {
     background: rgb(0, 0, 0);
 }
 
-.navigation {
+nav {
     list-style: none;
     display: flex;
     background-color: #333;
     align-items: center;
 }
 
-.navigation li {
+nav li {
     flex: 1 1 auto;
     /* difference between auto and 100% flex-basis - turn on link borders to view */
 }
 
-.navigation a {
+nav a {
     display: block;
     color: #eee;
     padding: 0.75rem;
     text-decoration: none;
     text-align: center;
     /* 	border: 1px dotted cyan; */
+    flex: 1 1 100%;
 }
 
-.navigation a:hover {
+nav a:hover {
     font-weight: 700;
     text-decoration: underline;
     text-decoration-color: yellow;
 }
-
-
-.modern a {
-    flex: 1 1 100%;
-}
-
 
 main {
     background: rgb(185, 184, 184);
