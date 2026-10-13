@@ -29,7 +29,7 @@ h2 {
     font-weight: 600;
 }
 
-header>h1>span {
+header>#course-title {
     display: block;
     text-align: center;
 }
