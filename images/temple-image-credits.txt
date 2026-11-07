@@ -1,0 +1,48 @@
+Temple photo credits
+
+These photos were downloaded from Wikimedia Commons. The Commons thumbnail service resized them for web use; the photos were not cropped.
+
+salt-lake-temple.jpg
+  "Salt Lake Temple, Utah - Sept 2004.jpg" by Diliff
+  https://commons.wikimedia.org/wiki/File:Salt_Lake_Temple,_Utah_-_Sept_2004.jpg
+  CC BY 2.5: https://creativecommons.org/licenses/by/2.5
+
+provo-city-center-temple.jpg
+  "Provo City Center Temple 02.jpg" by FallingGravity
+  https://commons.wikimedia.org/wiki/File:Provo_City_Center_Temple_02.jpg
+  CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0
+
+paris-france-temple.jpg
+  "Temple mormon de Paris au Chesnay le 8 avril 2017 - 20.jpg" by Lionel Allorge
+  https://commons.wikimedia.org/wiki/File:Temple_mormon_de_Paris_au_Chesnay_le_8_avril_2017_-_20.jpg
+  CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0
+
+rome-italy-temple.jpg
+  "RomeTempleatSunset.jpg" by Mbattista22
+  https://commons.wikimedia.org/wiki/File:RomeTempleatSunset.jpg
+  CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0
+
+washington-dc-temple.jpg
+  "Washington D.C. Temple At Dusk.jpg" by Joe Ravi
+  https://commons.wikimedia.org/wiki/File:Washington_D.C._Temple_At_Dusk.jpg
+  CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0
+
+laie-hawaii-temple.jpg
+  "Laie Hawaii Temple, Oahu, Hawaii, USA.jpg" by Diego Delso
+  https://commons.wikimedia.org/wiki/File:Laie_Hawaii_Temple,_Oahu,_Hawaii,_USA.jpg
+  CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0
+
+oakland-california-temple.jpg
+  "Oakland LDS temple2.jpg" by Calibas
+  https://commons.wikimedia.org/wiki/File:Oakland_LDS_temple2.jpg
+  CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0
+
+lima-peru-temple.jpg
+  "Lima Peru Temple.jpg" by Jeremy O. Evans
+  https://commons.wikimedia.org/wiki/File:Lima_Peru_Temple.jpg
+  CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0
+
+cochabamba-bolivia-temple.jpg
+  "Cochabamba Bolivia Temple.jpg" by Antipus
+  https://commons.wikimedia.org/wiki/File:Cochabamba_Bolivia_Temple.jpg
+  CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0
