@@ -112,7 +112,6 @@ figure {
     margin: 0;
     padding: 1rem;
     text-align: center;
-    background-color: #87acf1;
     border-radius: 0.5rem;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
     background-color: var(--color-card);
