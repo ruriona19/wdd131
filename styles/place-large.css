@@ -4,7 +4,11 @@
     }
 
     .weather-emoji {
-        display: inline;
+        display: none;
+    }
+
+    #weather h2::after {
+        content: " ⛅";
         margin-left: 0.35rem;
     }
 
