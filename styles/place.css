@@ -41,16 +41,32 @@ main {
     text-align: center;
 }
 
-main>picture {
+main>figure {
     display: block;
     width: 100%;
     max-width: 800px;
+    margin: 0 auto;
 }
 
-main>picture img {
+main>figure picture,
+main>figure picture img {
     display: block;
     width: 100%;
+}
+
+main>figure picture img {
     height: auto;
+}
+
+main>figure figcaption {
+    padding-top: 0.5rem;
+    text-align: left;
+    font-size: 0.75rem;
+    line-height: 1.4;
+}
+
+.desktop-image-credit {
+    display: none;
 }
 
 main>section {
