@@ -1,0 +1,16 @@
+Image: Leopardus tilcayo (5x3 cropped)
+Author: Paola Nogales Ascarrunz
+Source: https://commons.wikimedia.org/wiki/File:Leopardus_tilcayo_(5x3_cropped).jpg
+License: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+License URL: https://creativecommons.org/licenses/by-sa/4.0/
+Modification: Resized and converted from JPEG to WebP for the desktop image.
+Attribution line: "Leopardus tilcayo (5x3 cropped)" by Paola Nogales Ascarrunz, resized and converted to WebP. Licensed under CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Leopardus_tilcayo_(5x3_cropped).jpg
+
+Mobile image: Margay tiger cat (full body)
+Scientific name: Leopardus wiedii
+Author: Alessandro Verniani
+Source: https://commons.wikimedia.org/wiki/File:Margay_tiger_cat_(full_body).jpg
+License: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+License URL: https://creativecommons.org/licenses/by-sa/4.0/
+Modification: Cropped to a portrait aspect ratio and converted from JPEG to WebP for mobile display.
+Attribution line: "Margay tiger cat (full body)" by Alessandro Verniani, cropped and converted to WebP. Licensed under CC BY-SA 4.0. Source: https://commons.wikimedia.org/wiki/File:Margay_tiger_cat_(full_body).jpg
