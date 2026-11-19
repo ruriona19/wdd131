@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Temple Album</title>
+    <meta name="description"
+        content="Explore a photo album of temples around the world, featuring locations in the United States, Europe, Hawaii, and South America.">
+    <meta name="author" content="Roberto Uriona">
+    <link rel="stylesheet" href="styles/filtered-temples.css">
+    <link rel="stylesheet" href="styles/filtered-temples-large.css">
+    <link rel="icon" href="images/favicon.ico" sizes="any">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&family=Roboto:wght@400;500;700&display=swap"
+        rel="stylesheet">
+    <script src="scripts/filtered-temples.js" defer></script>
+</head>
+
+<body>
+    <header>
+        <p>Temple Album</p>
+        <button id="menu-button" type="button" aria-label="Toggle navigation menu" aria-expanded="false"
+            aria-controls="primary-nav">
+            &#9776;
+        </button>
+        <nav id="primary-nav" aria-label="Main navigation">
+            <a href="#temple-cards" data-filter="home">Home</a>
+            <a href="#temple-cards" data-filter="old">Old</a>
+            <a href="#temple-cards" data-filter="new">New</a>
+            <a href="#temple-cards" data-filter="large">Large</a>
+            <a href="#temple-cards" data-filter="small">Small</a>
+        </nav>
+    </header>
+    <main>
+        <h1>Temple Album</h1>
+        <section id="temple-cards" aria-label="Temple cards"></section>
+    </main>
+    <footer>
+        <p>&copy; <span id="currentyear"></span> Roberto Uriona - Bolivia</p>
+        <p>Last Modification: <span id="lastModified"></span></p>
+    </footer>
+</body>
+
+</html>
